@@ -1,4 +1,4 @@
-Name,Rainy weather,Cold weather,Optional,Category
+name,is_rainy,is_winter,is_optional,category
 Tent,None,False,False,Campsite
 Sleeping bags,None,False,False,Campsite
 Sleeping pads,None,False,False,Campsite
