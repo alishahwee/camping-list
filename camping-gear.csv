@@ -1,124 +1,124 @@
 Name,Rainy weather,Cold weather,Optional,Category
-Tent,NULL,No,No,Campsite
-Sleeping bags,NULL,No,No,Campsite
-Sleeping pads,NULL,No,No,Campsite
-Camping pillow,NULL,NULL,Yes,Campsite
-Winter tent,NULL,Yes,No,Campsite
-Cold-weather sleeping bags,NULL,Yes,No,Campsite
-Insulated sleeping pads,NULL,Yes,No,Campsite
-Sit pad,NULL,Yes,No,Campsite
-Headlamps,NULL,NULL,No,Campsite
-Camp chairs,NULL,NULL,No,Campsite
-Lantern,NULL,NULL,No,Campsite
-Sunshade,No,No,Yes,Campsite
-Hammock,No,No,Yes,Campsite
-Cots,NULL,No,Yes,Campsite
-Sleeping bag liners,NULL,NULL,Yes,Campsite
-Camp rug,NULL,NULL,Yes,Campsite
-Tablecloth,NULL,NULL,Yes,Campsite
-Clothesline and clips,NULL,No,Yes,Campsite
-Multi-tool,NULL,NULL,No,Tools
-Duct tape,NULL,NULL,No,Tools
-Extra cord,NULL,NULL,No,Tools
-Tent-pole repair sleeve,NULL,NULL,No,Tools
-Pad/mattress repair kit,NULL,NULL,No,Tools
-Mallet/hammer,NULL,NULL,No,Tools
-Saw/axe,NULL,NULL,No,Tools
-Knife,NULL,NULL,No,Tools
-Small broom and dustpan,NULL,NULL,No,Tools
-Stove and fuel,NULL,NULL,No,Kitchen
-Matches/lighters/firestarter,NULL,NULL,No,Kitchen
-Cook pots,NULL,NULL,No,Kitchen
-Frying pan,NULL,NULL,No,Kitchen
-Eating utensils,NULL,NULL,No,Kitchen
-Cooking utensils,NULL,NULL,No,Kitchen
-Can and bottle opener,NULL,NULL,No,Kitchen
-Plates/bowl,NULL,NULL,No,Kitchen
-Mugs/cups,NULL,NULL,No,Kitchen
-Cutting board,NULL,NULL,No,Kitchen
-Cooler,NULL,NULL,No,Kitchen
-Ice/ice substitutes,NULL,NULL,No,Kitchen
-Water bottles,NULL,NULL,No,Water
-Camp sink/wash bins,NULL,NULL,No,Kitchen
-Biodegradable soap,NULL,NULL,No,Kitchen
-Scrubber/sponge,NULL,NULL,No,Kitchen
-Water filter/purifier,NULL,NULL,No,Water
-Trash/recycling bags,NULL,NULL,No,Kitchen
-Dish towel,NULL,NULL,No,Kitchen
-Camp grill and fuel,NULL,NULL,Yes,Kitchen
-Grill rack,NULL,NULL,Yes,Kitchen
-Griddle,NULL,NULL,Yes,Kitchen
-Dutch oven,NULL,NULL,Yes,Kitchen
-Charcoal,NULL,NULL,Yes,Kitchen
-Portable tea/coffee maker,NULL,NULL,Yes,Kitchen
-Rolling ice cream maker,NULL,No,Yes,Kitchen
-Roasting forks,NULL,NULL,Yes,Kitchen
-Food-storage containers,NULL,NULL,Yes,Kitchen
-Large water jugs,NULL,No,Yes,Water
-Plastic bins for kitchen gear,NULL,NULL,Yes,Kitchen
-Solar and portable power,NULL,NULL,Yes,Extras
-Binoculars,NULL,NULL,Yes,Extras
-Navigation tools,NULL,NULL,Yes,Extras
-Field guides,NULL,NULL,Yes,Extras
-Star chart,NULL,NULL,Yes,Extras
-Reading material,NULL,NULL,Yes,Extras
-Notebook and pen/pencil,NULL,NULL,Yes,Extras
-Music player with headphones,NULL,NULL,Yes,Extras
-Games and toys,NULL,NULL,Yes,Extras
-Dog gear,NULL,NULL,Yes,Extras
-Storage bags,NULL,NULL,Yes,Extras
-Moisture-wicking underwear,NULL,No,No,Clothing
-Moisture-wicking long underwear,NULL,Yes,No,Clothing
-Moisture-wicking T-shirts,NULL,No,No,Clothing
-Quick-drying pants/shorts,NULL,No,No,Clothing
-Long-sleeve shirts,NULL,NULL,No,Clothing
-Fleece jacket,NULL,Yes,No,Clothing
-Lightweight fleece/jacket,NULL,No,No,Clothing
-Terrain boots/shoes,NULL,No,No,Clothing
-Winter boots,No,Yes,No,Clothing
-Snow shoes,No,Yes,No,Travel
-Daypack,NULL,NULL,No,Travel
-Snow shovel,No,Yes,No,Travel
-Gaiters,No,Yes,No,Clothing
-Socks (synthetic/wool),NULL,NULL,No,Clothing
-Sleepwear,NULL,NULL,No,Clothing
-Rainwear,Yes,NULL,No,Clothing
-Long underwear,NULL,Yes,No,Clothing
-Insulated jacket/vest,NULL,Yes,No,Clothing
-Fleece pants,NULL,Yes,No,Clothing
-Gloves/mittens,NULL,Yes,No,Clothing
-Warm hat,NULL,Yes,No,Clothing
-Swimsuits,NULL,No,Yes,Clothing
-Water sandals,NULL,No,Yes,Clothing
-In-camp sandals/booties,NULL,No,Yes,Clothing
-Bandanas,NULL,No,Yes,Clothing
-Toilet paper,NULL,NULL,No,Health/hygiene
-Hand sanitizer,NULL,NULL,No,Health/hygiene
-Toothbrush and toothpaste,NULL,NULL,No,Health/hygiene
-Toiletry kit,NULL,NULL,No,Health/hygiene
-Quick-dry towel,NULL,NULL,No,Health/hygiene
-Menstrual products,NULL,NULL,No,Health/hygiene
-Prescription medications,NULL,NULL,No,Health/hygiene
-First-aid,NULL,NULL,No,Health/hygiene
-Two-way radios,NULL,NULL,Yes,Travel
-Hand and foot warmers,NULL,Yes,Yes,Travel
-Sunscreen,No,NULL,No,Health/hygiene
-Sunglasses,No,NULL,No,Health/hygiene
-Sun hat,No,NULL,No,Health/hygiene
-Lip balm,NULL,NULL,No,Health/hygiene
-Insect repellent,NULL,No,No,Health/hygiene
-Urinary products,NULL,NULL,Yes,Health/hygiene
-Sanitation trowel (if no toilets),NULL,NULL,Yes,Health/hygiene
-Baby wipes,NULL,NULL,Yes,Health/hygiene
-Alcohol/antiseptic wipes,NULL,NULL,Yes,Health/hygiene
-Mirror,NULL,NULL,Yes,Health/hygiene
-Brush/comb,NULL,NULL,Yes,Health/hygiene
-Cosmetics,NULL,NULL,Yes,Health/hygiene
-Eyeglasses/contact lens,NULL,NULL,Yes,Health/hygiene
-Eyeshades,NULL,NULL,Yes,Health/hygiene
-Earplugs,NULL,NULL,Yes,Health/hygiene
-Portable camp shower,NULL,No,Yes,Health/hygiene
-Credit card and/or cash,NULL,NULL,No,Personal
-ID,NULL,NULL,No,Personal
-Cellphone,NULL,NULL,No,Personal
-Campsite reservation confirmation,NULL,NULL,No,Personal
+Tent,None,False,False,Campsite
+Sleeping bags,None,False,False,Campsite
+Sleeping pads,None,False,False,Campsite
+Camping pillow,None,None,True,Campsite
+Winter tent,None,True,False,Campsite
+Cold-weather sleeping bags,None,True,False,Campsite
+Insulated sleeping pads,None,True,False,Campsite
+Sit pad,None,True,False,Campsite
+Headlamps,None,None,False,Campsite
+Camp chairs,None,None,False,Campsite
+Lantern,None,None,False,Campsite
+Sunshade,False,False,True,Campsite
+Hammock,False,False,True,Campsite
+Cots,None,False,True,Campsite
+Sleeping bag liners,None,None,True,Campsite
+Camp rug,None,None,True,Campsite
+Tablecloth,None,None,True,Campsite
+Clothesline and clips,None,False,True,Campsite
+Multi-tool,None,None,False,Tools
+Duct tape,None,None,False,Tools
+Extra cord,None,None,False,Tools
+Tent-pole repair sleeve,None,None,False,Tools
+Pad/mattress repair kit,None,None,False,Tools
+Mallet/hammer,None,None,False,Tools
+Saw/axe,None,None,False,Tools
+Knife,None,None,False,Tools
+Small broom and dustpan,None,None,False,Tools
+Stove and fuel,None,None,False,Kitchen
+Matches/lighters/firestarter,None,None,False,Kitchen
+Cook pots,None,None,False,Kitchen
+Frying pan,None,None,False,Kitchen
+Eating utensils,None,None,False,Kitchen
+Cooking utensils,None,None,False,Kitchen
+Can and bottle opener,None,None,False,Kitchen
+Plates/bowl,None,None,False,Kitchen
+Mugs/cups,None,None,False,Kitchen
+Cutting board,None,None,False,Kitchen
+Cooler,None,None,False,Kitchen
+Ice/ice substitutes,None,None,False,Kitchen
+Water bottles,None,None,False,Water
+Camp sink/wash bins,None,None,False,Kitchen
+Biodegradable soap,None,None,False,Kitchen
+Scrubber/sponge,None,None,False,Kitchen
+Water filter/purifier,None,None,False,Water
+Trash/recycling bags,None,None,False,Kitchen
+Dish towel,None,None,False,Kitchen
+Camp grill and fuel,None,None,True,Kitchen
+Grill rack,None,None,True,Kitchen
+Griddle,None,None,True,Kitchen
+Dutch oven,None,None,True,Kitchen
+Charcoal,None,None,True,Kitchen
+Portable tea/coffee maker,None,None,True,Kitchen
+Rolling ice cream maker,None,False,True,Kitchen
+Roasting forks,None,None,True,Kitchen
+Food-storage containers,None,None,True,Kitchen
+Large water jugs,None,False,True,Water
+Plastic bins for kitchen gear,None,None,True,Kitchen
+Solar and portable power,None,None,True,Extras
+BiFalseculars,None,None,True,Extras
+Navigation tools,None,None,True,Extras
+Field guides,None,None,True,Extras
+Star chart,None,None,True,Extras
+Reading material,None,None,True,Extras
+Falsetebook and pen/pencil,None,None,True,Extras
+Music player with headphones,None,None,True,Extras
+Games and toys,None,None,True,Extras
+Dog gear,None,None,True,Extras
+Storage bags,None,None,True,Extras
+Moisture-wicking underwear,None,False,False,Clothing
+Moisture-wicking long underwear,None,True,False,Clothing
+Moisture-wicking T-shirts,None,False,False,Clothing
+Quick-drying pants/shorts,None,False,False,Clothing
+Long-sleeve shirts,None,None,False,Clothing
+Fleece jacket,None,True,False,Clothing
+Lightweight fleece/jacket,None,False,False,Clothing
+Terrain boots/shoes,None,False,False,Clothing
+Winter boots,False,True,False,Clothing
+SFalsew shoes,False,True,False,Travel
+Daypack,None,None,False,Travel
+SFalsew shovel,False,True,False,Travel
+Gaiters,False,True,False,Clothing
+Socks (synthetic/wool),None,None,False,Clothing
+Sleepwear,None,None,False,Clothing
+Rainwear,True,None,False,Clothing
+Long underwear,None,True,False,Clothing
+Insulated jacket/vest,None,True,False,Clothing
+Fleece pants,None,True,False,Clothing
+Gloves/mittens,None,True,False,Clothing
+Warm hat,None,True,False,Clothing
+Swimsuits,None,False,True,Clothing
+Water sandals,None,False,True,Clothing
+In-camp sandals/booties,None,False,True,Clothing
+Bandanas,None,False,True,Clothing
+Toilet paper,None,None,False,Health/hygiene
+Hand sanitizer,None,None,False,Health/hygiene
+Toothbrush and toothpaste,None,None,False,Health/hygiene
+Toiletry kit,None,None,False,Health/hygiene
+Quick-dry towel,None,None,False,Health/hygiene
+Menstrual products,None,None,False,Health/hygiene
+Prescription medications,None,None,False,Health/hygiene
+First-aid,None,None,False,Health/hygiene
+Two-way radios,None,None,True,Travel
+Hand and foot warmers,None,True,True,Travel
+Sunscreen,False,None,False,Health/hygiene
+Sunglasses,False,None,False,Health/hygiene
+Sun hat,False,None,False,Health/hygiene
+Lip balm,None,None,False,Health/hygiene
+Insect repellent,None,False,False,Health/hygiene
+Urinary products,None,None,True,Health/hygiene
+Sanitation trowel (if False toilets),None,None,True,Health/hygiene
+Baby wipes,None,None,True,Health/hygiene
+Alcohol/antiseptic wipes,None,None,True,Health/hygiene
+Mirror,None,None,True,Health/hygiene
+Brush/comb,None,None,True,Health/hygiene
+Cosmetics,None,None,True,Health/hygiene
+Eyeglasses/contact lens,None,None,True,Health/hygiene
+ETruehades,None,None,True,Health/hygiene
+Earplugs,None,None,True,Health/hygiene
+Portable camp shower,None,False,True,Health/hygiene
+Credit card and/or cash,None,None,False,Personal
+ID,None,None,False,Personal
+Cellphone,None,None,False,Personal
+Campsite reservation confirmation,None,None,False,Personal
