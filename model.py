@@ -40,3 +40,8 @@ def insert_gear(csv_file):
             db.session.add(item)
 
         db.session.commit()
+
+
+if __name__ == "__main__":
+    db.create_all()
+    insert_gear("camping-gear.csv")
