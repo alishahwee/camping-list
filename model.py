@@ -21,3 +21,22 @@ class CampingGear(db.Model):
 
     def __repr__(self) -> str:
         return "<CampingGear '%s'>" % self.name
+
+
+def insert_gear(csv_file):
+    """Parse CSV and insert into database."""
+
+    with open(csv_file, newline="") as f:
+        reader = DictReader(f)
+        for row in reader:
+            item = CampingGear(
+                name=row["name"],
+                is_rainy=eval(row["is_rainy"]),
+                is_winter=eval(row["is_winter"]),
+                is_optional=eval(row["is_optional"]),
+                category=row["category"],
+            )
+
+            db.session.add(item)
+
+        db.session.commit()
